@@ -1,3 +1,5 @@
+<img width="898" height="1918" alt="image" src="https://github.com/user-attachments/assets/bedcceb0-b123-4e3e-bc61-6e7622b48b51" />
+
 # Movies Library App
 
 A SwiftUI iOS app that displays a library of movies using The Movie Database (TMDB) API.
